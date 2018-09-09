@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="th">
+<script src="https://gist.github.com/cebe/98e07f4f9e0ed3920724.js"></script>
 <head>
     	<meta charset="UTF-8">
         <title>Run for ตุ๊ดตู่</title>
